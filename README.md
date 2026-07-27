@@ -2,6 +2,26 @@
 
 Python • PostgreSQL • SQL • Power BI • Pandas • DAX
 
+## 📊 Executive Dashboard
+
+![Executive Dashboard](images/dashboard.png)
+
+## 🏭 Manufacturer Analysis
+
+![Manufacturer Analysis](images/manufacturer_analysis.png)
+
+## ⛽ Fuel Type Analysis
+
+![Fuel Type Analysis](images/fuel_type_analysis.png)
+
+## ⚠️ Failure Analysis
+
+![Failure Analysis](images/failure_analysis.png)
+
+## 🏗️ Data Architecture & Methodology
+
+![Data Architecture](images/DATA%20ARCHITECTURE%20%26%20METHODOLOGY.png)
+
 ## Overview
 
 This project analyzes powertrain reliability across multiple vehicle manufacturers using Python, PostgreSQL, SQL, and Power BI.
