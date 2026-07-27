@@ -4,5 +4,5 @@ This folder contains the datasets used for the Automotive Powertrain Reliability
 
 Datasets:
 
-- Vehicle Master
-- Powertrain Failure Profile
+vehicle_master.xlsx
+powertrain_failure_profile.xlsx
