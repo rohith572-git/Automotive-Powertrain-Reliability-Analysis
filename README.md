@@ -22,6 +22,68 @@ Python • PostgreSQL • SQL • Power BI • Pandas • DAX
 
 ![Data Architecture](images/DATA%20ARCHITECTURE%20%26%20METHODOLOGY.png)
 
+## 🛠️ Technology Stack
+
+| Category | Tools |
+|----------|-------|
+| Programming | Python |
+| Database | PostgreSQL |
+| Query Language | SQL |
+| Data Analysis | Pandas |
+| Business Intelligence | Power BI |
+| Spreadsheet | Microsoft Excel |
+| Version Control | Git & GitHub |
+
+## 📂 Project Statistics
+
+| Metric | Value |
+|--------|------:|
+| Failure Records | 1,202 |
+| Powertrain Configurations | 189 |
+| Components Analyzed | 67 |
+| Vehicle Models | 33 |
+| OEMs | 5 |
+| Analysis Period | 2020–2025 |
+
+## 📈 Key Insights
+
+- Identified **408 High Severity** component failures.
+- Battery and Cooling System components contributed significantly to high-risk failures.
+- Compared failure probability across 189 unique powertrain configurations.
+- Analyzed repair cost trends for major powertrain components.
+- Built interactive Power BI dashboards for manufacturer, fuel type, and failure analysis.
+
+  ## 🔄 Project Workflow
+
+1. Data Collection
+2. Data Cleaning using Python
+3. PostgreSQL Database Design
+4. SQL Analysis
+5. Power BI Dashboard Development
+6. Business Insights & Reporting
+
+ ## 📁 Repository Structure
+
+```text
+Automotive-Powertrain-Reliability-Analysis
+│
+├── README.md
+├── images
+├── powerbi
+├── sql
+├── python
+├── data
+```
+
+## 🚀 Future Enhancements
+
+- Predictive Maintenance using Machine Learning
+- Automated ETL Pipeline
+- Real-time Dashboard Refresh
+- Expanded Vehicle Dataset
+- Cloud Database Integration
+
+ 
 ## Overview
 
 This project analyzes powertrain reliability across multiple vehicle manufacturers using Python, PostgreSQL, SQL, and Power BI.
@@ -82,3 +144,10 @@ Predictive maintenance model
 Machine Learning
 
 Live dashboard
+
+## 👤 Author
+
+**Rohith T**
+
+- LinkedIn: *www.linkedin.com/in/rohith-t-8377b92a4
+- GitHub: https://github.com/rohith572-git
