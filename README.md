@@ -1,4 +1,6 @@
-# Automotive Powertrain Reliability Analysis
+# 🚗 Automotive Powertrain Reliability Analysis
+
+Python • PostgreSQL • SQL • Power BI • Pandas • DAX
 
 ## Overview
 
